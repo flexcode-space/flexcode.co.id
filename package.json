@@ -1,6 +1,7 @@
 {
-	"name": "quiety-react",
+	"name": "flexcode.co.id",
 	"version": "0.1.0",
+	"homepage": "https://flexcode.co.id",
 	"private": true,
 	"dependencies": {
 		"@lottiefiles/react-lottie-player": "^3.4.7",
