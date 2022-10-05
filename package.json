@@ -17,6 +17,7 @@
 		"react-calendly": "^4.1.0",
 		"react-dom": "^18.2.0",
 		"react-floating-whatsapp": "^4.0.5",
+		"react-ga": "^3.3.1",
 		"react-helmet": "^6.1.0",
 		"react-loading-skeleton": "^3.1.0",
 		"react-modal-video": "^1.2.9",

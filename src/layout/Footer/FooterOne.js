@@ -232,14 +232,22 @@ const FooterOne = ({ footerLight, style, footerGradient }) => {
 								<div className="footer-single-col text-start text-lg-end text-md-end">
 									<ul className="list-unstyled list-inline footer-social-list mb-0">
 										<li className="list-inline-item">
-											<Link to="/#">
+											<a
+												href="https://www.linkedin.com/company/flexcode-space"
+												target="_blank"
+												rel="noreferrer"
+											>
 												<i className="fab fa-linkedin"></i>
-											</Link>
+											</a>
 										</li>
 										<li className="list-inline-item">
-											<Link to="/#">
+											<a
+												href="https://www.instagram.com/flexcode.co.id"
+												target="_blank"
+												rel="noreferrer"
+											>
 												<i className="fab fa-instagram"></i>
-											</Link>
+											</a>
 										</li>
 									</ul>
 								</div>

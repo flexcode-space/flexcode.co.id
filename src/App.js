@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import Routers from "./routers";
 import AOS from "aos";
+import ReactGA from "react-ga";
 
 import "aos/dist/aos.css";
 import "swiper/css";
@@ -13,6 +14,8 @@ const App = () => {
 	useEffect(() => {
 		AOS.init();
 		AOS.refresh();
+		ReactGA.initialize("G-2FYS8B7GS0");
+		ReactGA.pageview(window.location.pathname + window.location.search);
 	}, []);
 
 	return (
