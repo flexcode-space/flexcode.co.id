@@ -146,9 +146,14 @@ const FooterOne = ({ footerLight, style, footerGradient }) => {
 													</Link>
 												</li>
 												<li>
-													<Link to="/events" className="text-decoration-none">
+													<a
+														href="https://event.flexcode.co.id"
+														className="text-decoration-none"
+														target="_blank"
+														rel="noreferrer"
+													>
 														Events
-													</Link>
+													</a>
 												</li>
 											</ul>
 										</div>

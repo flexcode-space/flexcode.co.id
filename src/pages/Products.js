@@ -4,6 +4,7 @@ import PageHeader from "../components/common/PageHeader";
 import PageMeta from "../components/common/PageMeta";
 import Invityu from "../components/products/Invityu";
 import Flexplay from "../components/products/Flexplay";
+import Flexware from "../components/products/Flexware";
 
 const Products = () => {
 	return (
@@ -15,6 +16,7 @@ const Products = () => {
 			/>
 			<Invityu />
 			<Flexplay />
+			<Flexware />
 		</Layout>
 	);
 };
