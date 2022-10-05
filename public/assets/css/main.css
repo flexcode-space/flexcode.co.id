@@ -13863,6 +13863,7 @@ a:hover,
 	}
 	.hero-screen-wrap .mac-screen {
 		flex: auto;
+		text-align: center;
 	}
 }
 /*hero-5*/
