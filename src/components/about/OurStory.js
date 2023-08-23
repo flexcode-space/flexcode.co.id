@@ -31,7 +31,7 @@ const OurStory = () => {
 										Company Profile
 									</a>
 								</div>
-								<div className="mt-5">
+								{/* <div className="mt-5">
 									<h6 className="mb-3">We Are Awarded By</h6>
 									<img
 										src="/assets/img/awards-01.svg"
@@ -43,7 +43,7 @@ const OurStory = () => {
 										alt="awards"
 										className="img-fluid"
 									/>
-								</div>
+								</div> */}
 							</div>
 						</div>
 						<div className="col-lg-6 col-md-12 order-lg-0">

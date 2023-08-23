@@ -68,8 +68,8 @@ const CareerPromo = () => {
 									<h5>Kindness & building relationships</h5>
 									<p className="mb-0">
 										Working in a distributed team can sometimes feel lonely, but
-										not at Toggl. The digital nomads travel the world together.
-										The foodies share recipes for cooking. The sporty Togglers
+										not at FlexCode. The digital nomads travel the world
+										together. The foodies share recipes for cooking. The sporty
 										support each other in being active and reaching personal
 										milestones.
 									</p>
